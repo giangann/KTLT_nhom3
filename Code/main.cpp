@@ -12,6 +12,12 @@
 #include "fileHOADON.h"
 #include "otherWork.h"
 
+#include "fileKH.cpp"
+#include "fileCSDIEN.cpp"
+#include "fileGIADIEN.cpp"
+#include "fileHOADON.cpp"
+#include "otherWork.cpp"
+
 using namespace std;
 
 /*  Dieu huong cac hoat dong chinh */
